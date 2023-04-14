@@ -1,4 +1,4 @@
-# pprof-diasm-duplication
+# pprof-disasm-duplication
 This repo provides a minimal replication of a duplicate counting bug in golang's pprof tool with the following setup:
  - `go version go1.20.2 darwin/amd64`
  - `macOS 13.2.1`
